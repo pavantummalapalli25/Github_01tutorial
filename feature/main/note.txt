@@ -1,2 +1,1 @@
 Git is installed properly
-haii world
