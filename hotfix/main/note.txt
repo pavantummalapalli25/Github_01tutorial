@@ -1,2 +1,0 @@
-Git is installed properly
-sleep 60
